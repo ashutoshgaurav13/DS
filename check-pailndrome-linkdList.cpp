@@ -1,3 +1,5 @@
+/* To check whether a linked list is palndrome or not... */
+
 #include <iostream>
 #include <stack>
 using namespace std;
